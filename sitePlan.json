@@ -1,0 +1,49 @@
+{
+  "businessName": "KENOZY ENTERPRISE",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Quality Manufacturing Solutions for Nigerian Businesses",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "KENOZY ENTERPRISE - Your Trusted Manufacturing Partner in Port Harcourt. Delivering excellence in manufacturing solutions across Nigeria. Quality products, reliable service, competitive pricing.",
+      "imagePrompt": "Modern industrial manufacturing facility in Nigeria, clean production floor with machinery and equipment, bright natural lighting, professional workers in safety gear, Nigerian context, high-quality photorealistic image",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "KENOZY ENTERPRISE is a leading manufacturing company based in Obio Akpor, Port Harcourt. We pride ourselves on delivering high-quality manufactured products that meet international standards while serving the Nigerian market. Our facility at Rumukrushi is equipped with modern equipment and operated by skilled professionals committed to excellence. We understand the unique needs of Nigerian businesses and provide manufacturing solutions that combine quality, affordability, and reliability. Our commitment to customer satisfaction and continuous improvement has made us a trusted partner for businesses across various sectors.",
+      "imagePrompt": "Professional Nigerian manufacturing team in modern facility, diverse workers collaborating around quality control station, machinery in background, clean industrial environment, natural lighting, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At KENOZY ENTERPRISE, we offer comprehensive manufacturing services tailored to meet your business needs:\n\n• Custom Manufacturing - Bespoke production solutions designed to your specifications\n• Quality Control - Rigorous testing and inspection to ensure product excellence\n• Bulk Production - Large-scale manufacturing with consistent quality standards\n• Product Development - Collaborative design and prototyping services\n• Supply Chain Management - Efficient logistics and timely delivery across Nigeria\n• Technical Consultation - Expert advice on manufacturing processes and optimization\n\nWe serve clients across various industries including retail, construction, agriculture, and more. Our flexible approach ensures that whether you need small batch production or large-scale manufacturing, we deliver results that exceed expectations.",
+      "imagePrompt": "Grid layout of manufacturing processes: quality control inspection, production line operation, raw materials warehouse, finished products packaging, all in clean modern Nigerian industrial setting, photorealistic details",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose KENOZY ENTERPRISE",
+      "copy": "When you partner with KENOZY ENTERPRISE, you benefit from:\n\n✓ Local Expertise - Deep understanding of the Nigerian market and business environment\n✓ Quality Assurance - Strict quality control measures at every production stage\n✓ Competitive Pricing - Cost-effective solutions without compromising quality\n✓ Timely Delivery - Reliable production schedules and prompt order fulfillment\n✓ Modern Facility - Well-equipped manufacturing plant in Rumukrushi, Port Harcourt\n✓ Professional Team - Experienced staff dedicated to your project success\n✓ Flexible Solutions - Customized manufacturing to meet your specific requirements\n✓ Customer Support - Responsive service and ongoing technical assistance\n\nOur location in Obio Akpor positions us strategically to serve clients in Rivers State and beyond, ensuring efficient distribution and service delivery throughout Nigeria.",
+      "imagePrompt": "Professional handshake in industrial setting, Nigerian business people in manufacturing facility, modern equipment visible, bright professional atmosphere, symbolizing partnership and trust, photorealistic",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? Get in touch with KENOZY ENTERPRISE today.\n\nVisit Our Facility:\nNo 12 Okekem Close Rumukrushi\nObio Akpor, Rivers State\nNigeria\n\nCall Us:\n0706 539 3459\n\nWhatsApp:\nClick to chat with us instantly for quick quotes and inquiries\n\nWe're open Monday to Saturday and ready to provide the manufacturing solutions your business needs. Whether you have a specific project in mind or need consultation on manufacturing possibilities, our team is here to help. Contact us today to schedule a facility tour or discuss your requirements.",
+      "imagePrompt": "Modern Nigerian office reception area with manufacturing facility visible through glass windows, professional receptionist, clean corporate environment, Port Harcourt business setting, welcoming atmosphere, photorealistic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0706 539 3459",
+    "email": "",
+    "address": "No 12 Okekem Close Rumukrushi, Obio Akpor, Rivers State, Nigeria",
+    "whatsapp": "https://wa.me/2347065393459"
+  }
+}
